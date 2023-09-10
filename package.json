@@ -2,8 +2,8 @@
   "name": "bmi-calculator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gayathrirajendran.github.io/bmi-calculator",
-  "type": "module",
+  "homepage": "https://GOPALGTM.github.io/bmi-calculator",
+  "type": "module", 
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
